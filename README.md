@@ -16,6 +16,8 @@ I also have a math blog, ThePuzzlr.com. Be sure to check it out if you would lik
 
 Categories: Best Overall, Most Practical/Scalable, Best Impact, and Best Design.
 
+Link To Video: 
+
 Project Intro:
 
 Have you eved had that moment when you forget that one thing that you needed to buy from the store? Or when you forgot to join a pre-sheduled Zoom meeting? Well, Listicle is an application that works to make sure moments like the above don't happen. 
