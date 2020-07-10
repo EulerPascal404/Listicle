@@ -16,7 +16,7 @@ I also have a math blog, ThePuzzlr.com. Be sure to check it out if you would lik
 
 Categories: Best Overall, Most Practical/Scalable, Best Impact, and Best Design.
 
-Link To Video: https://drive.google.com/file/d/1tUupM0po2c4zJAIZyDGuCzmMb1H_-_6p/view
+Link To Video: https://drive.google.com/file/d/1916DMLOAbWdrOxzVieH10Y5B8MmV_m73/view?usp=sharing
 
 Project Intro:
 
