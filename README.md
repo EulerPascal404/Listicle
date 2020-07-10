@@ -22,3 +22,6 @@ Have you eved had that moment when you forget that one thing that you needed to 
 
 With a simple user interface, users can add any items that they would like to remember by typing it and then pressing the "add" button. To mark something complete, just double click it. Additionally, once you have completed your tasks for the day, you can press the "Clear Completed" button to erase the tasks you have completed so you can focus on what remains. To make it easier, I have also added an "Empty List" Button that clears the whole list. Now comes, in my opinion, the most important feature, the save button. You can close the tab, reload, or anything else, and as long as you have pressed the save button, your list will still be there when you come back! Additionally, we have added a timer feature that can be used to set a goal for you to complete your tasks by. Once your time is over, there will be a pop-up alerting you to finish your tasks if you have not. 
 
+Future modifications:
+
+We will be adding a feature that lets you set a specific time for each task(seperately) and make the UI cleaner.
