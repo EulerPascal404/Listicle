@@ -14,7 +14,6 @@ I have been the Illinois Math League Champion twice and I received a Gold Medal 
 I also have a math blog, ThePuzzlr.com. Be sure to check it out if you would like to learn more about me.
 
 
-Categories: Best Overall, Most Practical/Scalable, Best Impact, and Best Design.
 
 Link To Video: https://drive.google.com/file/d/1916DMLOAbWdrOxzVieH10Y5B8MmV_m73/view?usp=sharing
 
@@ -27,3 +26,5 @@ With a simple user interface, users can add any items that they would like to re
 Future modifications:
 
 We will be adding a feature that lets you set a specific time for each task(separately) and make the UI cleaner.
+
+THIS PROJECT HAS BEEN REPURPOSED WITH SMALL CHANGES TO BE USED AS A SUBMISSION TO THIS HACKATHON. I CREATED IT FOR THE SCHAUMBURG HACKTHELIB EVENT!
